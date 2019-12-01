@@ -1,0 +1,26 @@
+{
+	"name": "AdventOfCode",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --watchAll"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/karatekaneen/AdventOfCode.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/karatekaneen/AdventOfCode/issues"
+	},
+	"homepage": "https://github.com/karatekaneen/AdventOfCode#readme",
+	"dependencies": {
+		"jest": "^24.9.0"
+	},
+	"devDependencies": {
+		"prettier": "^1.19.1"
+	}
+}
